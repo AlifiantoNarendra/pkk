@@ -17,7 +17,7 @@
         if ($insert) {
             echo "
             <script>
-                alert('data berhasil ditambahkan!');
+                alert('Berhasil Menambahkan $nama_modul');
                 document.location.href = '../index.php';
             </script>
             ";
